@@ -21,10 +21,10 @@ This project allows you to explore a 3D galaxy, where each star represents a mus
 
 ## How to use locally:
 
-First, open up a terminal and navigate to the ./webapp/ directory:
+First, open up a terminal and navigate to the ./docs/ directory:
 
 ```bash
-cd /your/path/to/webapp
+cd /your/path/to/docs/
 ```
 
 Here, start a local server, for example using Python's built-in module:
